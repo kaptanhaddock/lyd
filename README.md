@@ -11,3 +11,6 @@ This is an initiative of [Dario Castañé](http://dario.im), [Pirates de Catalun
 
 ## Status
 Currently I'm working on the initial analysis, which I'm going to work in this wiki in the next weeks. If you feel curious, I'm only able to tell you this right now: just imagine a mashup between [IdeaTorrent](http://ideatorrent.org/), [LiquidFeedback](http://liquidfeedback.org/open-source/) and [BetterMeans](http://bettermeans.com/). That doesn't mean that we are going to do again the wheel. LiquidFeedback is a great foundation for Lýd, for example.
+
+## Questions?
+Open a public question in the [issue tracker](https://github.com/imdario/lyd/issues), drop me a line at dario (at) pirata (dot) cat or tweet me at [@im_dario](https://twitter.com/im_dario).
