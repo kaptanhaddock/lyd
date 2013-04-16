@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html lang="{{.Extra `/site/default/language`}}">
+<head>
+	<meta charset="UTF-8" />
+	<title>{{.Title}}</title>
+	<meta property="og:title" content="{{.Title}}" />
+	<meta property="og:url" content="{{.URL}}" />
+	<meta property="og:type" content="website" />
+	{{if .Page.Image}}<meta property="og:image" content="{{.Page.Image}}" />{{else}}{{if .Site.Image}}<meta property="og:image" content="{{.Site.Image}}" />{{end}}{{end}}
+	<meta property="twitter:url" content="{{.URL}}" />
+	<meta property="twitter:title" content="{{.Title}}" />
+	<meta property="twitter:description" content="{{.Page.Description}}" />
+	{{if .Page.Image}}<meta property="twitter:image" content="{{.Page.Image}}" />{{end}}
+</head>
+<body>
+	{{.Body}}
+</body>
+</html>

@@ -1,0 +1,7 @@
+mimetypes:
+  text/markdown: markdown
+site:
+  baseurl: http://lyd.dario.im
+zingy:
+  deploy: .zingy/deploy
+  layout: .zingy/layout.html
