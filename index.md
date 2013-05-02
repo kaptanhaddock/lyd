@@ -36,7 +36,7 @@ Lýd is not limited to Internet but technology is going to help you to bootstrap
 
 ### I didn't get what you meant there...
 
-No problem. Check out [Core concepts](#coreconcepts). Guidelines are explained there. They are annotated by core value.
+No problem. Check out [Core concepts](#core-concepts). Guidelines are explained there.
 
 Or check the following tl;dr.
 
@@ -48,7 +48,7 @@ Everybody inside a liqorg can access any nexus' [flows](/flow) (conversation, pr
 
 Nexus are created automatically by members features (city, language, you say it) and manually on demand (workgroups, committees). Nexus can have hierarchy. Nexus are accessible by mail (as mailing lists) or web (as forums).
 
-Nexus' purpose is action. Quick consensus is needed to avoid procrastination, so voting is needed to achieve it. In nexus there can be lýders (leaders, just a pun).
+Nexus' purpose is action. Quick consensus is needed to avoid procrastination, so voting is needed to achieve it. In nexus there can be lýders (leaders, just a pun), holding N delegations each one.
 
 How do lýders come to existence? Simple. At any time, nexus' members can delegate on somebody else (for whatever reason) to lead the way. There can be several lýders in a nexus, as they represent other members. We assume in workgroups that lýder with most delegations is the *de facto* coordinator.
 
