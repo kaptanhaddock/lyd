@@ -62,7 +62,7 @@ Members can fit in eight participation levels:
 
 * Passive:
 	* Periodical notifications. They don't have time but they want to know about general activity (mailings).
-* Passive-active (away):
+* Passive-active (absent):
 	* They don't want any communication. None.
 	* On demand: they just browse social network profiles, blog or public website. They need an always available centralized information source.
 * Active-passive:
@@ -72,7 +72,7 @@ Members can fit in eight participation levels:
 	* They participate sometimes.
 	* They get notifications like in Active-passive role.
 	* They want to participate in some discussions.
-* Active II (here be advanced users):
+* Active II (beyond here be advanced users):
 	* They focus in one nexus.
 	* They get all notifications from their nexus.
 * Active III:
@@ -89,4 +89,13 @@ Members can fit in eight participation levels:
 
 There are two levels of cooperation:
 
-TODO expand on nexus' operations and federation across systems.
+* Across nexus.
+* Across organizations.
+
+Nexus being sets, they can be joined and split in order to bring together and coordinate multidisciplinary groups to achieve objectives.
+
+Nexus' relationships are not limited by organization, allowing to share and discuss in supranexus with almost equal features.
+
+Federation is handled through flow replication (systems send new messages) and limiting delegation to same-organization members. In this way, organizations' data doesn't mix between them in convoluted ways.
+
+Privacy settings apply in federated liquid organizations. Members can mask themselves to other organizations' members in shared flows but, at the same time, they can be unmasked to their organizations.
