@@ -20,6 +20,8 @@ Nexus aren't limited to characteristics. You can create *ex profeso* nexus that 
 
 Nexus act as sets. You can join them by sharing a [flow](/flow) (they are joined only from this flow's point of view), intersect them to get specialized nexus (e.g. communication team for a city), etc.
 
+Nexus can set a mandatory flow type. For example, a Nexus for announcements can be made of simple messages.
+
 ## Horizontality
 
 Nexus' horitzontaliy is handled through [delegation](/delegation), based in trust and non-blocking decision making.
@@ -84,6 +86,8 @@ Members can fit in eight participation levels:
 	* They belong to all nexus, even semi-secret nexus due legal requirements.
 	* As previous one, they get all flows' messages.
 	* Usually a mailing list user.
+
+Members can't leave a nexus based on shared characteristics but they can block it.
 
 ## Cooperation
 
