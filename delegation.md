@@ -8,7 +8,7 @@
 
 ## Horizontality && cooperation
 
-Any member can be delegate and can delegate on other member, always by nexus. Members can opt out from being delegates. Delegation is not mandatory.
+Any member can be delegate and can delegate on other member, always by nexus. Members can opt out from being delegates. Delegation is not mandatory and it must be renewed.
 
 General delegation is possible but it only has effect in nexus where both (delegate and delegating) are members. Main reason behind this is you must follow a nexus activity to be able to take decisions and as a way to audit delegates.
 

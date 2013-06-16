@@ -2,8 +2,8 @@
 <html lang="{{.Extra `/site/default/language`}}">
 <head>
 	<meta charset="UTF-8" />
-	<title>{{.Title}}</title>
-	<meta property="og:title" content="{{.Title}}" />
+	<title>{{.Title}} - Lýd :: Blueprint for liquid organizations</title>
+	<meta property="og:title" content="{{.Title}} - Lýd :: Blueprint for liquid organizations" />
 	<meta property="og:url" content="{{.URL}}" />
 	<meta property="og:type" content="website" />
 	{{if .Page.Image}}<meta property="og:image" content="{{.Page.Image}}" />{{else}}{{if .Site.Image}}<meta property="og:image" content="{{.Site.Image}}" />{{end}}{{end}}
@@ -11,6 +11,9 @@
 	<meta property="twitter:title" content="{{.Title}}" />
 	<meta property="twitter:description" content="{{.Page.Description}}" />
 	{{if .Page.Image}}<meta property="twitter:image" content="{{.Page.Image}}" />{{end}}
+	<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.2.0/pure-min.css">
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700">
+	<link rel="stylesheet" href="css/lyd.css">
 </head>
 <body>
 	{{.Body}}
