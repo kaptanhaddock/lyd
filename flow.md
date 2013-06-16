@@ -2,7 +2,7 @@
 
 > anything which exists inside an organization in any time span. E.g. projects, conversations, tasks, etc.
 
-In our on-line activity we are surrounded by conversations. Discussions. Debates. You name it.
+In our dairy activity we are surrounded by conversations. Discussions. Debates. You name it.
 
 A flow can be anything (based on its type) and it can last any amount of time (from forever to just minutes).
 
@@ -41,3 +41,5 @@ Flows must be accessible with permalink, as long as each message they contain.
 To simplify cooperation and discussion, common answers like agreement or rejection must be handled through specific mechanisms like +1/-1 buttons on messages.
 
 Flows can be used to receive external feedback from different sources, like requests, criticism, press contacts, searches and mentions in social networks, leaks, ideas, etc.
+
+A REST API is mandatory to allow third party integration. For example, [Huginn](https://github.com/cantino/huginn) integration for IFTTT-like features.
