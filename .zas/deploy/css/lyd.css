@@ -101,3 +101,11 @@ a {
 	color: #993399;
 	font-style: normal;
 }
+
+#zas {
+	width: 100%;
+	border-top: 1px solid #eee;
+	font-size: 89%;
+	font-style: italic;
+	padding-top: 0.8em;
+}
