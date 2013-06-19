@@ -30,7 +30,7 @@ In order to keep as much context and structure as possible, anyone can modify a 
 
 This actions keep debate structured and avoid off-topics to take over main conversation. They also allow to manage duplication and information overload.
 
-## Transparency, accessibility & privacy
+## Transparency, accessibility and privacy
 
 Transparency and privacy come from nexus' settings where a flow belongs.
 

@@ -6,7 +6,7 @@
 
 **Non-blocking:** using trust as shared base, members take decisions further with delegated votes on them, in public backlogs available to any member (even anonymous if desired).
 
-## Horizontality && cooperation
+## Horizontality and cooperation
 
 Any member can be delegate and can delegate on other member, always by nexus. Members can opt out from being delegates. Delegation is not mandatory and it must be renewed.
 
@@ -32,7 +32,7 @@ Closing a voting won't happen before last delegate voting. A delegate can only v
 
 Total votes (for, against, abstention) will be summarized and published in a public (for members or everybody) backlog outside the nexus. If a decision is not published in the backlog, it is void.
 
-## Accessibility && privacy
+## Accessibility and privacy
 
 Delegates votes are only known by them and who delegate on them. Only summarized results will be published.
 
