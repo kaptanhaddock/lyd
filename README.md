@@ -1,13 +1,14 @@
-# Lýd - Blueprint for liquid organizations
+# Lýd - Akışkan Örgütler için Tasarı
+*(04.07.2013) Türkçe tercüme başlangıcı / orijinal ingilizce dokümana erişmek için https://github.com/imdario/lyd i ziyaret edin.*
 
 > lýð- _/ˈliːð-/_ from Icelandic, "people" (or related with). lýður: public, popular; lýðræði: democracy.
 
-Welcome to [Lýd](http://lyd.dario.im), an open concept about human communication and organization. It is alive and feed with real experience.
+İnsan iletişimi ve örgütlenmesine ilişkin açık bir kavram olan [Lýd](http://lyd.dario.im)'e hoşgeldiniz. Lýd, canlı ve gerçek tecrübelerden beslenmektedir.
 
-This project is open to anyone willing to contribute. Feel free to fork and pull request any idea, improvement, etc.
+Bu proje katılım yapmak isteyen herkese açıktır. Lütfen fikirlerinizi, ekleme ve geliştirmelerinizi, versiyonlarınızı fork ve pull talepleri olarak iletmekten çekinmeyin.
 
-Your current organization is probably using something similar. Test what you are not using and report back. Contribute with your own experience.
+Muhtemelen örgütünüz buna benzer bir düzen kullanıyordur. Lütfen kullanmadığınız sistem ya da mantığı deneyin ve bize iletin; kendi tecrübenizle katkı gerçekleştirin.
 
-Licensed under [Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/).
+[Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/) ile lisanslanmıştır.
 
-**Warning:** This repository is not intended to host source code nor texts for a brainy book. It will host a best-effort attempt to explain in simplest terms how to organize a grassroots organization and its requirements.
+**Dikkat:** Bu depo herhangi bir teknolojik çözüme dair kaynak kodlar ya da uzun bir kitaba dair yazıları içermemektedir. Yeni kurulan başlangıç örgütlerinin ihtiyaçları ve nasıl organize olabileceğine dair basit ve iyi niyetli önerilere ev sahipliği yapmayı amaçlamaktadır.
